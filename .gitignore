@@ -4,19 +4,62 @@ TSLA/
 
 # macOS
 .DS_Store
+__MACOSX/
+.AppleDouble
+.LSOverride
 
 # Python
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
 # Virtual environment
 .venv/
+venv/
+ENV/
+env/
 
 # Node
 node_modules/
 
 # Logs
 *.log
+logs/
 
-# Virtual environment
-.venv/
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Sphinx documentation
+docs/_build/
+
+# Documentation files (optional - uncomment if needed)
+# *.pdf
+# references/
