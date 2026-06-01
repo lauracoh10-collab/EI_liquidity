@@ -1,1 +1,19 @@
-TSLA/*
+# Ignore the TSLA file or folder so it's never pushed
+TSLA
+TSLA/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Virtual environment
+.venv/
