@@ -9,6 +9,9 @@ TSLA/
 __pycache__/
 *.py[cod]
 
+# Virtual environment
+.venv/
+
 # Node
 node_modules/
 
