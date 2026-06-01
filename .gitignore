@@ -20,3 +20,7 @@ node_modules/
 
 # Virtual environment
 .venv/
+
+/TSLA/
+
+/EI_liquidity_riad_working/
